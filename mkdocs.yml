@@ -1,0 +1,17 @@
+site_name: CodingNomads Discord Guide for Members
+site_description: Information on how to join the CodingNomads Discord server.
+site_author: 
+# nav:
+#   - Members: members.md
+theme:
+  name: readthedocs
+  shortcuts:
+    help: 191    # ?
+    next: 78     # n
+    previous: 80 # p
+    search: 83   # s
+markdown_extensions:
+  - toc:
+      permalink: True
+repo_url: https://github.com/CodingNomads/discord-guide
+repo_name: GitHub
