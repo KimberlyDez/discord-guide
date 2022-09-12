@@ -1,9 +1,9 @@
 -i https://pypi.org/simple/
 click==7.1.2
 htmlmin==0.1.12
-importlib-metadata==3.7.3 ; python_version < '3.8'
+importlib-metadata==3.7.3 ; python_version < '3.9'
 jinja2==2.11.3
-jsmin==2.2.2
+jsmin==3.0.1
 livereload==2.6.3
 markdown==3.3.4
 markupsafe==1.1.1
@@ -15,5 +15,5 @@ pymdown-extensions==8.1.1
 pyyaml==5.4.1
 six==1.15.0
 tornado==6.1
-typing-extensions==3.7.4.3 ; python_version < '3.8'
+typing-extensions==3.7.4.3 ; python_version < '3.9'
 zipp==3.4.1
