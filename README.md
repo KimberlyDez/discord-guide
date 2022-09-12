@@ -1,0 +1,1 @@
+Guide for members to join the CodingNomads Discord server.
