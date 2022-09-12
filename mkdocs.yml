@@ -1,8 +1,8 @@
 site_name: CodingNomads Discord Guide for Members
 site_description: Information on how to join the CodingNomads Discord server.
 site_author: 
-nav:
-   - Members: members.md
+# nav:
+#    - Index: index.md
 theme:
   name: readthedocs
   shortcuts:
