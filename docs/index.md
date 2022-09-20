@@ -16,9 +16,13 @@ The server also provides dedicated 1-on-1 DM channels for communication between 
 
 ### Getting Started
 
-We recommend getting started by downloading and installing the [desktop client](https://discord.com/download) for the best experience. On initial launch, you can create an account.
+#### Install Discord
+
+Download and install the [desktop client](https://discord.com/download) for the best experience. On initial launch, you can create an account.
 
 You can use a single account to join multiple servers, while setting a different [server nickname](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames) for each. This allows you to use your real name on the CodingNomads server, and a pseudonym on others. Discord also supports multiple user accounts and offers simple account switching within the app if that works better for you.
+
+#### Join CodingNomads' Server
 
 Once your account is set up, [click this link](https://discord.gg/amhafdRMhc) to join the CodingNomads server.
 
