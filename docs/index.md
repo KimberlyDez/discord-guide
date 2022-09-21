@@ -20,9 +20,9 @@ Discord is a popular online communication platform. Users can interact with each
 
 Below are the quick steps to getting started on CodingNomads' Discord Server. Continue reading below for more detailed instructions, as well as helpful tips for using Discord!
 
-1. [Download and install] (https://discord.com/download) the Discord app on your machine.
+1. [Download and install](https://discord.com/download) the Discord app on your machine.
 2. Sign up and/or sign in to Discord.
-3. Click [this link] (https://discord.gg/MrwdByvMaz) to join CodingNomads Discord server.
+3. Click [this link](https://discord.gg/MrwdByvMaz) to join CodingNomads Discord server.
 4. When you first enter CodingNomads Discord server you’ll be asked to read and agree to our Code of Conduct. After agreeing, you’ll be automatically admitted to the server. 
 5. Say hi in the #general channel on Discord! :) 
 
