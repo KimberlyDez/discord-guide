@@ -2,6 +2,11 @@
 
 This guide will introduce you to Discord and walk you through installing and using it to connect to the CodingNomads server.
 
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Test</p>
+</div>
+
 ### What is Discord?
 
 Discord is a popular online communication platform. Users can interact with each other via text, voice, or video - either privately or as part of a "server". Discord servers are managed communities of users, generally dedicated to a particular topic or interest. You can find a Discord server for just about anything!
@@ -20,9 +25,9 @@ Discord is a popular online communication platform. Users can interact with each
 
 Below are the quick steps to getting started on CodingNomads' Discord Server. Continue reading below for more detailed instructions, as well as helpful tips for using Discord!
 
-1. [Download and install] (https://discord.com/download) the Discord app on your machine.
+1. [Download and install](https://discord.com/download) the Discord app on your machine.
 2. Sign up and/or sign in to Discord.
-3. Click [this link] (https://discord.gg/MrwdByvMaz) to join CodingNomads Discord server.
+3. Click [this link](https://discord.gg/MrwdByvMaz) to join CodingNomads Discord server.
 4. When you first enter CodingNomads Discord server you’ll be asked to read and agree to our Code of Conduct. After agreeing, you’ll be automatically admitted to the server. 
 5. Say hi in the #general channel on Discord! :) 
 
@@ -42,7 +47,11 @@ Once your account is set up, [click this link](https://discord.gg/amhafdRMhc) to
 
 #### 4. Verify Your Email & Agree to Server Rules
 
-After clicking `Join`, you'll end up in the #entry channel, which displays the server's code of conduct. You won't be able to take any action until you click the `Complete` button, which will display the screen below. This requires a validated email address, and agreement to read and abide by the code of conduct.
+After clicking `Join`, you'll end up in the #entry channel, which displays the server's code of conduct. You won't be able to take any action until you click the `Complete` button. 
+
+![Entry Channel](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-entry.png?raw=true)
+
+Clicking `Complete` will display the screen below. This requires a validated email address, and agreement to read and abide by the code of conduct.
 
 ** **
 
@@ -52,13 +61,13 @@ After clicking `Join`, you'll end up in the #entry channel, which displays the s
 
 #### 5. Agree to CodingNomads Code of Conduct
 
-After clicking `Submit`, you'll find yourself in the `#entry` channel, which displays the servers code of conduct. Please read it carefully, before clicking the button to agree.
+After clicking `Submit`, you'll find yourself back in the `#entry` channel once again. This time, you'll be able to agree to the code of conduct by clicking the `Agree & Continue` button.
 
 ![Code of Conduct](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-coc.png?raw=true)
 
 #### 6. Enter Your Real Name
 
-When you click the button, you'll be asked to enter your real name - this will automatically set your nickname for the server. Afterwards, you'll receive the private message below. You have now joined the CodingNomads Discord server, it's great to have you here!
+When you click the button `Agree & Continue`, you'll be asked to enter your real name - this will automatically set your nickname for the server. Afterwards, you'll receive the private message below. You have now joined the CodingNomads Discord server, it's great to have you here!
 
 ** **
 
@@ -116,6 +125,6 @@ Mentored students will retain lifetime access to the Discord server, while membe
 
 ### Thanks
 
-Hope this guide has helped you get a bit more acquainted with Discord, looking forward to seeing everyone there!
+Hope this guide has helped you get a bit more acquainted with Discord, looking forward to seeing everyone there! 
 
-
+Need help? If you were able to join the Discord server, but are unable to access additional channels - you can contact support staff by posting a question in the `#ask-questions` channel. If that is not an option, send a quick note to: admin@codingnomads.co and we'll get you fixed up asap.
