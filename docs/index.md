@@ -131,7 +131,9 @@ Discord messages in most channels do not expire. This offers the opportunity to 
 
 One exception is a mentored student's dedicated mentor support channel. When your mentorship program comes to an end, this channel will be deleted and all history will be lost. If you would like to archive these messages before the channel is deleted, please let a staff member know.
 
-Mentored students will retain lifetime access to the Discord server, while members will not. CodingNomads Discord server access is limited to currently subscribed members at any given time. If your membership subscription is canceled, you will lose access to the server.
+Students who have enrolled in CodingNomads 1-on-1 mentorship program (mentored students) will retain lifetime access to "Member Support" category channels even after their mentorship period ends. However, mentored students will lose access to the "Mentored Support" category channels and 1-on-1 mentor support channels after their mentorship period ends. 
+
+Students who have subscribed to one or more courses, but have not enrolled in CodingNomads mentorship program (members), will retain access to "Member Support" category channels only while their membership subscription is active. When a member cancels their monthly subscription, they will lose access to the "Member Support" channels on the Discord server, but will retain access to all public channels and categories.
 
 ### Thanks
 
