@@ -3,8 +3,8 @@
 This guide will introduce you to Discord and walk you through installing and using it to connect to the CodingNomads server.
 
 <div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>Test</p>
+<p class="admonition-title">Important Reminder</p>
+<p>On Friday, Oct 21, 2022, CodingNomads will stop using Slack and the Slack workspace will be shut down.</p>
 </div>
 
 ### What is Discord?
@@ -115,6 +115,16 @@ public int shrink(int number) {
 }
 ```
 
+### Direct Messages
+
+Sending a DM is easy, just click the user you want to message in a channel's user list, then type your message. 
+
+![Sending a DM](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-dm.png?raw=true)
+
+This is where things are a bit different with Discord.  Once you've sent a DM, you'll find the conversation has moved outside of the CodingNomads server, and is now in your **Direct Messages** section of Discord. This is not a problem, the conversation can continue as normal here, but keep in mind that a person might now be identified by their **username**, rather than their CodingNomads server **nickname**. In that case, you'll see an "AKA" next to their username indicating the nickname that you know them by inside of the server.
+
+ ![AKA Nickname](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-dm-user.png?raw=true)
+
 ### Message History & Access
 
 Discord messages in most channels do not expire. This offers the opportunity to search and reference previously posted questions, solutions, and other helpful information at a later time. Next time you're about to post a request for help, give it a try!
@@ -128,3 +138,5 @@ Mentored students will retain lifetime access to the Discord server, while membe
 Hope this guide has helped you get a bit more acquainted with Discord, looking forward to seeing everyone there! 
 
 Need help? If you were able to join the Discord server, but are unable to access additional channels - you can contact support staff by posting a question in the `#ask-questions` channel. If that is not an option, send a quick note to: admin@codingnomads.co and we'll get you fixed up asap.
+
+
