@@ -2,6 +2,11 @@
 
 This guide will introduce you to Discord and walk you through installing and using it to connect to the CodingNomads server.
 
+<div class="admonition note">
+<p class="admonition-title">Important Reminder</p>
+<p>On Friday, Oct 21, 2022, CodingNomads will stop using Slack and the Slack workspace will be shut down. Please be sure to save any Slack messages you want, and switch to Discord before then!</p>
+</div>
+
 ### What is Discord?
 
 Discord is a popular online communication platform. Users can interact with each other via text, voice, or video - either privately or as part of a "server". Discord servers are managed communities of users, generally dedicated to a particular topic or interest. You can find a Discord server for just about anything!
@@ -23,8 +28,8 @@ Below are the quick steps to getting started on CodingNomads' Discord Server. Co
 1. [Download and install](https://discord.com/download) the Discord app on your machine.
 2. Sign up and/or sign in to Discord.
 3. Click [this link](https://discord.gg/MrwdByvMaz) to join CodingNomads Discord server.
-4. When you first enter CodingNomads Discord server you’ll be asked to read and agree to our Code of Conduct. After agreeing, you’ll be automatically admitted to the server. 
-5. Say hi in the #general channel on Discord! :) 
+4. When you first enter the server, you’ll be asked to read and agree to the Code of Conduct. After agreeing, you’ll be admitted to the server. 
+5. Say hi in the `#general` channel on Discord! :) 
 
 #### 1. Install Discord - Detailed Guide
 
@@ -42,7 +47,11 @@ Once your account is set up, [click this link](https://discord.gg/amhafdRMhc) to
 
 #### 4. Verify Your Email & Agree to Server Rules
 
-After clicking `Join`, you'll end up in the #entry channel, which displays the server's code of conduct. You won't be able to take any action until you click the `Complete` button, which will display the screen below. This requires a validated email address, and agreement to read and abide by the code of conduct.
+After clicking `Join`, you'll end up in the #entry channel, which displays the server's code of conduct. You won't be able to take any action until you click the `Complete` button. 
+
+![Entry Channel](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-entry.png?raw=true)
+
+Clicking `Complete` will display the screen below. This requires a validated email address, and agreement to read and abide by the code of conduct.
 
 ** **
 
@@ -52,13 +61,13 @@ After clicking `Join`, you'll end up in the #entry channel, which displays the s
 
 #### 5. Agree to CodingNomads Code of Conduct
 
-After clicking `Submit`, you'll find yourself in the `#entry` channel, which displays the servers code of conduct. Please read it carefully, before clicking the button to agree.
+After clicking `Submit`, you'll find yourself back in the `#entry` channel once again. This time, you'll be able to agree to the code of conduct by clicking the `Agree & Continue` button.
 
 ![Code of Conduct](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-coc.png?raw=true)
 
 #### 6. Enter Your Real Name
 
-When you click the button, you'll be asked to enter your real name - this will automatically set your nickname for the server. Afterwards, you'll receive the private message below. You have now joined the CodingNomads Discord server, it's great to have you here!
+When you click the button `Agree & Continue`, you'll be asked to enter your real name - this will automatically set your nickname for the server. Afterwards, you'll receive the private message below. You have now joined the CodingNomads Discord server, it's great to have you here!
 
 ** **
 
@@ -106,16 +115,26 @@ public int shrink(int number) {
 }
 ```
 
+### Direct Messages
+
+To send a DM, click on the user you want to message in a channel's user list. A pop-out will appear for that user, and there is a box at the bottom of the pop-out where you can type your message.
+
+![Sending a DM](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-dm.png?raw=true)
+
+Once you've sent a DM, the conversation has moved outside of the CodingNomads server, and is now in your **Direct Messages** section. This can be found by clicking the Discord icon in the top left corner. The conversation can continue as normal here, but keep in mind that a person might now be identified by their **username**, rather than their CodingNomads server **nickname**. In that case, you'll see an "AKA" next to their username indicating the nickname that you know them by inside of the server.
+
+ ![AKA Nickname](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-dm-user.png?raw=true)
+
 ### Message History & Access
 
-Discord messages in most channels do not expire. This offers the opportunity to search and reference previously posted questions, solutions, and other helpful information at a later time. Next time you're about to post a request for help, give it a try!
+Discord messages in **most** channels do not expire or delete. This offers the opportunity to search and reference previously posted questions, solutions, and other helpful information at a later time.
 
-One exception is a mentored student's dedicated mentor support channel. When your mentorship program comes to an end, this channel will be deleted and all history will be lost. If you would like to archive these messages before the channel is deleted, please let a staff member know.
+**For *Mentored* Students**: Students who have enrolled in CodingNomads 1-on-1 mentorship program will retain lifetime access to "Member Support" category channels even after your mentorship period ends. However, when your mentorship program comes to an end, you will no longer have access to the "Mentored Support" category channels, and your dedicated 1-on-1 mentor support channels will be discontinued. If you would like to save these messages before the channel is deleted, please let a staff member know.
 
-Mentored students will retain lifetime access to the Discord server, while members will not. CodingNomads Discord server access is limited to currently subscribed members at any given time. If your membership subscription is canceled, you will lose access to the server.
+**For *Member* Students**: Students who have a membership subscription to one or more courses, but have not enrolled in CodingNomads **mentorship** program, will retain access to "Member Support" category channels while your membership subscription is active. When a member cancels your monthly subscription, you will lose access to the "Member Support" channels on the Discord server, but will retain access to all public channels and categories.
 
-### Thanks
+### Need Help?
 
-Hope this guide has helped you get a bit more acquainted with Discord, looking forward to seeing everyone there!
+We hope this guide has helped you get a bit more acquainted with Discord, and we look forward to seeing everyone there! 
 
-
+Need help? If you were able to join the Discord server, but are unable to access additional channels - you can contact support staff by posting a question in the `#ask-questions` channel. If that is not an option, send a quick note to: admin[at]codingnomads[dot]co and we'll get you fixed up asap.
