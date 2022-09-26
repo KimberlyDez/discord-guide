@@ -41,7 +41,7 @@ You can use a single account to join multiple servers, while setting a different
 
 #### 3. Join CodingNomads Server
 
-Once your account is set up, [click this link](https://discord.gg/amhafdRMhc) to join the CodingNomads server.
+Once your account is set up, [click this link](https://discord.gg/codingnomads) to join the CodingNomads server.
 
 ![Server Invite](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-join.png?raw=true)
 
