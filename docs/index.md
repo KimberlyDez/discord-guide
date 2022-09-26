@@ -77,9 +77,9 @@ When you click the button `Agree & Continue`, you'll be asked to enter your real
 
 If you are currently a paying member or mentored student, within minutes additional channels will automatically unlock. If they do not, send a quick message in `#ask-questions` and support staff will get it sorted out right away. Now that you've joined the server, you can start chatting right away. You'll notice the `#entry` channel is now gone from your channel list and a few new channels are available, including:
 
-* `about-us`: This channel offers additional information about CodingNomads and the Discord server. --**Start here**--
+* `#about-us`: This channel offers additional information about CodingNomads and the Discord server. --**Start here**--
 
-* `ask-questions`: A place for the general public to ask non-technical questions about CodingNomads.
+* `#ask-questions`: A place for the general public to ask non-technical questions about CodingNomads.
 
 * `#general`: This is a great place for discussion on just about anything (mostly non-technical), where we also share our weekly accomplishments!
 
