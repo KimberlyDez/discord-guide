@@ -1,10 +1,12 @@
 ## CodingNomads Discord Guide
 
-This guide will introduce you to Discord and walk you through installing and using it to connect to the CodingNomads server.
+This guide will introduce you to Discord, and walk you through connecting to CodingNomads Discord chat channels.
 
 ### What is Discord?
 
-Discord is a popular online communication platform. Users can interact with each other via text, voice, or video - either privately or as part of a "server". Discord servers are managed communities of users, generally dedicated to a particular topic or interest. You can find a Discord server for just about anything!
+Discord is a global online communication platform. Users can interact via text, voice, or video, either privately, or as a part of a "server". Discord servers are managed communities of users, generally dedicated to a particular topic or interest. You can find a Discord server for just about anything!
+
+CodingNomads uses a Discord server for all of our online communications - including forum support, mentored support, and generally hanging out on our [channels]https://codingnomads.github.io/discord-guide/#using-discord-channels). By joining our server, you can ask coding questions, connect with other learners, and enjoy the process of your learning experience!
 
 ### Discord Benefits
 
